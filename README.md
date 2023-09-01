@@ -4,7 +4,7 @@ This is a small collection of idiosynchracies, philosophies, and principles I ho
 
 What this is _**not**_:
 
-* A concert rider for a diva. If anything I hope this is a logical and reasonable thoughts. If it comes across as anything but that I hope you tell me so.
+* A concert rider for a diva. If anything I hope these thoguhts are logical and reasonable. If I come across differently, I hope you tell me so.
 * A line in the sand. The vagaries of projects demands, people, and team cultures may require me to operate in a different way. I get that.
 
 ## Communication
