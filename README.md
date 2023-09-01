@@ -9,7 +9,7 @@ What this is _**not**_:
 
 ## Why did I do this?
 
-I don't always communicate my needs clearly or kindly, especially in the throes of project delivery&emdash;I amm only human, after all. This is my attempt at expressing my thinking on productivity collegially.
+I don't always communicate my needs clearly or kindly, especially in the throes of project delivery—I am only human, after all. This is my attempt at expressing my thinking on productivity collegially.
 
 ## Communication
 
