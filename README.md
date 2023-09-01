@@ -4,16 +4,14 @@ This is a small collection of idiosynchracies, philosophies, and principles I ho
 
 What this is _**not**_:
 
-* A concert rider for a diva. If anything I hope these thoguhts are logical and reasonable. If I come across differently, I hope you tell me so.
+* A concert rider for a diva. If anything I hope these thoughts are logical and reasonable. If I come across differently, I hope you tell me so.
 * A line in the sand. The vagaries of projects demands, people, and team cultures may require me to operate in a different way. I get that.
 
+## Why did I do this?
+
+I don't communicate what I'm thinking clearly or kindly, especially in the throes of project delivery. I'm only human, after all. This is my attempt at expressing my thinking on productivity collegially.
+
 ## Communication
-
-### Chat
-
-Please don't say hello.
-
-More specifically, don't _just_ say hello, then make me watch your typing indicator while you gather your thoughts. It's such a time suck. [nohello.net](https://www.nohello.net) does a good job of explaining it.
 
 ### Checking e-mail, IMs, and other manner of notifications
 
@@ -24,6 +22,12 @@ A series of analyses and surveys reported out in a [study by Ninlabs research](h
 > * A programmer is likely to get just one uninterrupted 2-hour session in a day
 
 I agree with these findings. Getting pulled out of flow is sometimes necessary, but I work hard to make it an exception, not a rule. I throttle my notifications and check in 2-3 times a day. If it's urgent, call me.
+
+### Chat
+
+Please don't say hello.
+
+More specifically, don't _just_ say hello, then make me watch your typing indicator while you gather your thoughts. It's such a time suck. [nohello.net](https://www.nohello.net) does a good job of explaining it.
 
 ### Project Updates
 
