@@ -22,7 +22,7 @@ A series of analyses and surveys reported out in a [study by Ninlabs research](h
 > * When interrupted during an edit of a method, only 10% of times did a programmer resume work in less than a minute.
 > * A programmer is likely to get just one uninterrupted 2-hour session in a day
 
-I agree with these findings. Getting pulled away--pulled out of flow--is a sometimes necessary, but I work hard to make it an exception, not a rule. To that end, my notifications are significanly throttled.
+I agree with these findings. Getting pulled out of flow is sometimes necessary, but I work hard to make it an exception, not a rule. I throttle my notifications and check in 2-3 times a day. If it's urgent, call me.
 
 ### Updates
 
