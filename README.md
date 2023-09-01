@@ -30,6 +30,8 @@ Given the choice, I would rather set my own timetable and write out my updates t
 
 ## Meetings
 
+### Agendaless meetings
+
 ### Candy striping meetings
 
 
