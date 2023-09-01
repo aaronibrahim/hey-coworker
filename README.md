@@ -12,7 +12,7 @@ What this is _**not**_:
 
 Please don't say hello.
 
-More specifically, don't _just_ say hello, then make me watch your typing indicator while you gather your thoughts. It's such a time suck. (nohello.net)[https://www.nohello.net] does a good job of explaining it.
+More specifically, don't _just_ say hello, then make me watch your typing indicator while you gather your thoughts. It's such a time suck. [nohello.net](https://www.nohello.net) does a good job of explaining it.
 
 ### Checking e-mail, IMs, and other manner of notifications
 
@@ -26,5 +26,10 @@ I agree with these findings. Getting pulled away--pulled out of flow--is a somet
 
 ### Updates
 
+Given the choice, I would rather set my own timetable and write out my updates thoughtfully and comprehensively.
 
 ## Meetings
+
+### Candy striping meetings
+
+
