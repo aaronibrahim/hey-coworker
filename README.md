@@ -11,6 +11,8 @@ What this is _**not**_:
 
 I don't always communicate my needs clearly or kindly, especially in the throes of project delivery—I am only human, after all. This is my attempt at expressing my thinking on productivity collegially.
 
+I hope that, in scanning this document, you think through your own ways of working and, if we don't see eye to eye, we negotiate an agreement that allows us to focus on our goal: delivering the best software/project/outcome.
+
 ## Communication
 
 ### Checking e-mail, IMs, and other manner of notifications
