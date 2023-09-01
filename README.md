@@ -25,9 +25,9 @@ A series of analyses and surveys reported out in a [study by Ninlabs research](h
 
 I agree with these findings. Getting pulled out of flow is sometimes necessary, but I work hard to make it an exception, not a rule. I throttle my notifications and check in 2-3 times a day. If it's urgent, call me.
 
-### Updates
+### Project Updates
 
-Given the choice, I would rather set my own timetable and write out my updates thoughtfully and comprehensively.
+Given the choice, I would rather write out my updates in some shared place. They will be thoughtful, comprehensive, and we will have a record of them. This doesn't mean I dislike standups, only that I prefer to read my standup from a script.
 
 ## Meetings
 
