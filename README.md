@@ -37,10 +37,16 @@ Given the choice, I would rather write out my updates in some shared place. They
 
 ## Meetings
 
+Most of my effort around meetings is defensive, the the goal of protecting those elusive, uninterrupted, 2-hour-long blocks of time in my day where I can effectively program.
+
 ### Agendaless meetings
 
 ### Stacked meetings
 
 ### Candy striping meetings
+
+### I am not your emotional support technologist
+
+Please don't pull me into meetings because you _think_ you _might_ need me.
 
 
