@@ -37,7 +37,7 @@ Given the choice, I would rather write out my updates in some shared place. They
 
 ## Guarding my time
 
-Most of my effort around meetings is defensive, the the goal of protecting those elusive, uninterrupted, 2-hour-long blocks of time in my day where I can effectively program.
+Most of my effort around meetings is defensive. Wherever possible I work to protect those elusive, uninterrupted, 2-hour blocks of time in my day where I can be the most effective engineer.
 
 ### Agendaless meetings
 
