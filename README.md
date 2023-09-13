@@ -43,11 +43,13 @@ Most of my effort around meetings is defensive, the the goal of protecting those
 
 If I ever have to meet with you, out of respect for your time and a desire to get what I need in the shortest timeframe possible, I'll make an agenda. It will have an introduction and a series of questions I need answered. If you did the same I think you'd find our time together to be more productive.
 
-_"I don't know what I don't know!"_
+> "I don't know what I don't know!"
     Are we talking about backend? frontend? cupcakes? You know something that constrains your inquiry. Put it in words.
-_"This is a brainstorming session"_
+
+> "This is a brainstorming session"
     I can't wait. But what are we brainstorming and what kind of brainstorming will make this useful to you? What do you hope to walk away with?
-_"I'm just looking for guidance"_
+
+> "I'm just looking for guidance"
     I might have a heap of resources to drop on you with direction as to where to look. Someone else may have already answered your question and I'd love to help you get what you need. But help me to do that.
 
 ### Candy striping meetings
