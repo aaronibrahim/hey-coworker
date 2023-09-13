@@ -35,15 +35,25 @@ More specifically, don't _just_ say hello, then make me watch your typing indica
 
 Given the choice, I would rather write out my updates in some shared place. They will be thoughtful, comprehensive, and we will have a record of them. This doesn't mean I dislike standups, only that I prefer to read my standup from a script.
 
-## Meetings
+## Guarding my time
 
 Most of my effort around meetings is defensive, the the goal of protecting those elusive, uninterrupted, 2-hour-long blocks of time in my day where I can effectively program.
 
 ### Agendaless meetings
 
-### Stacked meetings
+If I ever have to meet with you, out of respect for your time and a desire to get what I need in the shortest timeframe possible, I'll make an agenda. It will have an introduction and a series of questions I need answered. If you did the same I think you'd find our time together to be more productive.
+
+_"I don't know what I don't know!"_
+    Are we talking about backend? frontend? cupcakes? You know something that constrains your inquiry. Put it in words.
+_"This is a brainstorming session"_
+    I can't wait. But what are we brainstorming and what kind of brainstorming will make this useful to you? What do you hope to walk away with?
+_"I'm just looking for guidance"_
+    I might have a heap of resources to drop on you with direction as to where to look. Someone else may have already answered your question and I'd love to help you get what you need. But help me to do that.
 
 ### Candy striping meetings
+
+### My preference: bookended meetings
+
 
 ### I am not your emotional support technologist
 
