@@ -55,15 +55,23 @@ I can't wait to participate! But what are we brainstorming and what kind of brai
 
 > "I'm just looking for guidance"
 
-I might have a heap of resources to drop on you with direction as to where to look. Someone else may have already answered your question and I'd love to help you get what you need. But help me to do that.
+I'd love to help you get what you need. But help me to do that:
+
+* I might be in a good brainspace to ask some followup questions of my own and add them to our shared agenda.
+* I might have a heap of resources to drop on you with direction as to where to look.
+* Someone else may have already answered your question better than I can.
+* I might not be the right person to help you, but I might be able to get you the right contact.
 
 ### Candy striping meetings
 
+TBD
+
 ### My preference: bookended meetings
 
+TBD
 
 ### I am not your emotional support technologist
 
-Please don't pull me into meetings because you _think_ you _might_ need me.
+Please don't pull me into meetings because you _think_ you _might_ need me. Rather, consider letting me know you might pull me into a meeting and add me as optional. If I'm available, I'll accept and monitor my chats.
 
 
