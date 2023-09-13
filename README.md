@@ -45,6 +45,8 @@ If I ever have to meet with you, out of respect for your time and a desire to ge
 
 What I'm looking to avoid is wasting time helping you organize your own thoughts when they should be in your agenda.
 
+Here's some common things I hear when I bring this up:
+
 > "I don't know what I don't know!"
 
 Are we talking about backend? frontend? cupcakes? You know something that constrains your inquiry. Put it in words.
