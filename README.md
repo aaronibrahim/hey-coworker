@@ -41,7 +41,7 @@ Most of my effort around meetings is defensive. Wherever possible I work to prot
 
 ### Agendaless meetings
 
-If I ever have to meet with you, out of respect for your time and a desire to get what I need in the shortest timeframe possible, I'll make an agenda. It will have an introduction a series of questions I need answered, and relevant documents for your review if you have time. If you did the same I think you'd find our time together to be more productive.
+If I ever have to meet with you, out of respect for your time and a desire to get what I need in the shortest timeframe possible, I'll make an agenda. It will have an introduction, outcomes I hope to reach (questions to be answered, decisions to be made), and relevant documents for your review if you have time. If you did the same I think you'd find our time together to be more productive.
 
 What I'm looking to avoid is wasting time helping you organize your own thoughts when they should be in your agenda.
 
