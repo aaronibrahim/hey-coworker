@@ -9,7 +9,7 @@ What this is _**not**_:
 
 ## Why did I do this?
 
-I don't always communicate my needs clearly or kindly, especially in the throes of project delivery—I am only human, after all. This is my attempt at expressing my thinking on productivity collegially.
+I don't always communicate my needs clearly or kindly, especially in the throes of project delivery—I am only human, after all. This is my attempt at expressing my thinking on productivity in a collegial way.
 
 I hope that, in scanning this document, you think through your own ways of working and, if we don't see eye to eye, we negotiate an agreement that allows us to focus on our goal: delivering the best software/project/outcome.
 
@@ -41,11 +41,11 @@ Most of my effort around meetings is defensive. Wherever possible I work to prot
 
 ### Agendaless meetings
 
-If I ever have to meet with you, out of respect for your time and a desire to get what I need in the shortest timeframe possible, I'll make an agenda. It will have an introduction and a series of questions I need answered. If you did the same I think you'd find our time together to be more productive.
+If I ever have to meet with you, out of respect for your time and a desire to get what I need in the shortest timeframe possible, I'll make an agenda. It will have an introduction a series of questions I need answered, and relevant documents for your review if you have time. If you did the same I think you'd find our time together to be more productive.
 
 What I'm looking to avoid is wasting time helping you organize your own thoughts when they should be in your agenda.
 
-Here's some common things I hear when I bring this up:
+Here are some things I've heard when I ask for an agenda:
 
 > "I don't know what I don't know!"
 
